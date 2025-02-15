@@ -40,6 +40,7 @@ Run the following command to install dependencies:
     pip install speechrecognition pyttsx3 wikipedia webbrowser requests ecapture wolframalpha tkinter
 
 Step 5: Run the Assistant
+
     python assistant.py
 
 Usage Instructions
